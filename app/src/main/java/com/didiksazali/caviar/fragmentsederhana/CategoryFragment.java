@@ -15,7 +15,7 @@ import android.widget.Button;
 public class CategoryFragment extends Fragment implements View.OnClickListener {
     private Button btnDetailCategory;
     public CategoryFragment() {
-        // Required empty public constructor
+        // Required empty public constructorrr
     }
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
